@@ -1,0 +1,74 @@
+graph {
+start_22069592 [shape = point]
+end_22069592 [shape = point]
+start_1160003871 [shape = point]
+end_1160003871 [shape = point]
+start_1075738627 [shape = point;]
+end_1075738627 [shape = point;]
+1075738627 [shape = record; label = 730804.9316]
+start_1075738627 -- 1075738627
+1075738627 -- end_1075738627
+start_282828951 [shape = point;]
+end_282828951 [shape = point;]
+282828951 [shape = record; label = 850509.7286]
+start_282828951 -- 282828951
+282828951 -- end_282828951
+start_394721749 [shape = point;]
+end_394721749 [shape = point;]
+394721749 [shape = record; label = 284049.5721]
+start_394721749 -- 394721749
+394721749 -- end_394721749
+start_1160003871 -- start_1075738627
+end_1075738627 -- start_282828951
+end_282828951 -- start_394721749
+end_394721749 -- end_1160003871
+start_1884122755 [shape = point]
+end_1884122755 [shape = point]
+start_1134612201 [shape = point;]
+end_1134612201 [shape = point;]
+1134612201 [shape = record; label = 208416.0266]
+start_1134612201 -- 1134612201
+1134612201 -- end_1134612201
+start_246550802 [shape = point;]
+end_246550802 [shape = point;]
+246550802 [shape = record; label = 209496.8921]
+start_246550802 -- 246550802
+246550802 -- end_246550802
+start_786041152 [shape = point;]
+end_786041152 [shape = point;]
+786041152 [shape = record; label = 176218.8711]
+start_786041152 -- 786041152
+786041152 -- end_786041152
+start_1884122755 -- start_1134612201
+end_1134612201 -- start_246550802
+end_246550802 -- start_786041152
+end_786041152 -- end_1884122755
+start_897074030 [shape = point]
+end_897074030 [shape = point]
+start_1885996206 [shape = point;]
+end_1885996206 [shape = point;]
+1885996206 [shape = record; label = 856260.9643]
+start_1885996206 -- 1885996206
+1885996206 -- end_1885996206
+start_1859039536 [shape = point;]
+end_1859039536 [shape = point;]
+1859039536 [shape = record; label = 589018.4868]
+start_1859039536 -- 1859039536
+1859039536 -- end_1859039536
+start_278934944 [shape = point;]
+end_278934944 [shape = point;]
+278934944 [shape = record; label = 778930.1368]
+start_278934944 -- 278934944
+278934944 -- end_278934944
+start_897074030 -- start_1885996206
+end_1885996206 -- start_1859039536
+end_1859039536 -- start_278934944
+end_278934944 -- end_897074030
+start_22069592 -- start_1160003871
+end_1160003871 -- end_22069592
+start_22069592 -- start_1884122755
+end_1884122755 -- end_22069592
+start_22069592 -- start_897074030
+end_897074030 -- end_22069592
+
+}

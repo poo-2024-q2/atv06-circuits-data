@@ -1,0 +1,62 @@
+graph {
+start_1205555397 [shape = point]
+end_1205555397 [shape = point]
+start_1543974463 [shape = point]
+end_1543974463 [shape = point]
+start_1293618474 [shape = point;]
+end_1293618474 [shape = point;]
+1293618474 [shape = record; label = 577440.8279]
+start_1293618474 -- 1293618474
+1293618474 -- end_1293618474
+start_156545103 [shape = point;]
+end_156545103 [shape = point;]
+156545103 [shape = record; label = 689476.0344]
+start_156545103 -- 156545103
+156545103 -- end_156545103
+start_1543974463 -- start_1293618474
+end_1293618474 -- start_156545103
+end_156545103 -- end_1543974463
+start_345281752 [shape = point]
+end_345281752 [shape = point]
+start_1896294051 [shape = point;]
+end_1896294051 [shape = point;]
+1896294051 [shape = record; label = 948232.7687]
+start_1896294051 -- 1896294051
+1896294051 -- end_1896294051
+start_1684015092 [shape = point;]
+end_1684015092 [shape = point;]
+1684015092 [shape = record; label = 848473.9276]
+start_1684015092 -- 1684015092
+1684015092 -- end_1684015092
+start_1209669119 [shape = point;]
+end_1209669119 [shape = point;]
+1209669119 [shape = record; label = 530625.6014]
+start_1209669119 -- 1209669119
+1209669119 -- end_1209669119
+start_2014866032 [shape = point;]
+end_2014866032 [shape = point;]
+2014866032 [shape = record; label = 921632.8240]
+start_2014866032 -- 2014866032
+2014866032 -- end_2014866032
+start_345281752 -- start_1896294051
+end_1896294051 -- start_1684015092
+end_1684015092 -- start_1209669119
+end_1209669119 -- start_2014866032
+end_2014866032 -- end_345281752
+start_811760110 [shape = point;]
+end_811760110 [shape = point;]
+811760110 [shape = record; label = 889769.6996]
+start_811760110 -- 811760110
+811760110 -- end_811760110
+start_1415157681 [shape = point;]
+end_1415157681 [shape = point;]
+1415157681 [shape = record; label = 774585.7770]
+start_1415157681 -- 1415157681
+1415157681 -- end_1415157681
+start_1205555397 -- start_1543974463
+end_1543974463 -- start_345281752
+end_345281752 -- start_811760110
+end_811760110 -- start_1415157681
+end_1415157681 -- end_1205555397
+
+}

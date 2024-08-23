@@ -1,0 +1,8 @@
+graph {
+start_1177377518 [shape = point;]
+end_1177377518 [shape = point;]
+1177377518 [shape = record; label = 470066.8418]
+start_1177377518 -- 1177377518
+1177377518 -- end_1177377518
+
+}

@@ -1,0 +1,68 @@
+graph {
+start_422392391 [shape = point]
+end_422392391 [shape = point]
+start_1053631449 [shape = point]
+end_1053631449 [shape = point]
+start_1453128758 [shape = point;]
+end_1453128758 [shape = point;]
+1453128758 [shape = record; label = 28443.8494]
+start_1453128758 -- 1453128758
+1453128758 -- end_1453128758
+start_1136497418 [shape = point;]
+end_1136497418 [shape = point;]
+1136497418 [shape = record; label = 190512.2143]
+start_1136497418 -- 1136497418
+1136497418 -- end_1136497418
+start_863125040 [shape = point;]
+end_863125040 [shape = point;]
+863125040 [shape = record; label = 830008.0393]
+start_863125040 -- 863125040
+863125040 -- end_863125040
+start_1053631449 -- start_1453128758
+end_1453128758 -- start_1136497418
+end_1136497418 -- start_863125040
+end_863125040 -- end_1053631449
+start_1693847660 [shape = point]
+end_1693847660 [shape = point]
+start_1429880200 [shape = point;]
+end_1429880200 [shape = point;]
+1429880200 [shape = record; label = 717749.5256]
+start_1429880200 -- 1429880200
+1429880200 -- end_1429880200
+start_2050019814 [shape = point;]
+end_2050019814 [shape = point;]
+2050019814 [shape = record; label = 555849.0077]
+start_2050019814 -- 2050019814
+2050019814 -- end_2050019814
+start_1485955886 [shape = point;]
+end_1485955886 [shape = point;]
+1485955886 [shape = record; label = 866236.0907]
+start_1485955886 -- 1485955886
+1485955886 -- end_1485955886
+start_1693847660 -- start_1429880200
+end_1429880200 -- start_2050019814
+end_2050019814 -- start_1485955886
+end_1485955886 -- end_1693847660
+start_212921632 [shape = point]
+end_212921632 [shape = point]
+start_149047107 [shape = point;]
+end_149047107 [shape = point;]
+149047107 [shape = record; label = 752721.9805]
+start_149047107 -- 149047107
+149047107 -- end_149047107
+start_1956710488 [shape = point;]
+end_1956710488 [shape = point;]
+1956710488 [shape = record; label = 759960.8529]
+start_1956710488 -- 1956710488
+1956710488 -- end_1956710488
+start_212921632 -- start_149047107
+end_149047107 -- start_1956710488
+end_1956710488 -- end_212921632
+start_422392391 -- start_1053631449
+end_1053631449 -- end_422392391
+start_422392391 -- start_1693847660
+end_1693847660 -- end_422392391
+start_422392391 -- start_212921632
+end_212921632 -- end_422392391
+
+}

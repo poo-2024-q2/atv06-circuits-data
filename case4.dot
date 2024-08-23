@@ -1,0 +1,24 @@
+graph {
+start_2070529722 [shape = point]
+end_2070529722 [shape = point]
+start_1188753216 [shape = point;]
+end_1188753216 [shape = point;]
+1188753216 [shape = record; label = 653249.2354]
+start_1188753216 -- 1188753216
+1188753216 -- end_1188753216
+start_317986356 [shape = point;]
+end_317986356 [shape = point;]
+317986356 [shape = record; label = 599409.7449]
+start_317986356 -- 317986356
+317986356 -- end_317986356
+start_331510866 [shape = point;]
+end_331510866 [shape = point;]
+331510866 [shape = record; label = 396133.0612]
+start_331510866 -- 331510866
+331510866 -- end_331510866
+start_2070529722 -- start_1188753216
+end_1188753216 -- start_317986356
+end_317986356 -- start_331510866
+end_331510866 -- end_2070529722
+
+}

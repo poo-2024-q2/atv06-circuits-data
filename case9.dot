@@ -1,0 +1,50 @@
+graph {
+start_1630521067 [shape = point]
+end_1630521067 [shape = point]
+start_274773041 [shape = point]
+end_274773041 [shape = point]
+start_1629911510 [shape = point;]
+end_1629911510 [shape = point;]
+1629911510 [shape = record; label = 453251.1191]
+start_1629911510 -- 1629911510
+1629911510 -- end_1629911510
+start_292917034 [shape = point;]
+end_292917034 [shape = point;]
+292917034 [shape = record; label = 156810.2828]
+start_292917034 -- 292917034
+292917034 -- end_292917034
+start_274773041 -- start_1629911510
+end_1629911510 -- start_292917034
+end_292917034 -- end_274773041
+start_242355057 [shape = point]
+end_242355057 [shape = point]
+start_455538610 [shape = point;]
+end_455538610 [shape = point;]
+455538610 [shape = record; label = 277649.9911]
+start_455538610 -- 455538610
+455538610 -- end_455538610
+start_1226622409 [shape = point;]
+end_1226622409 [shape = point;]
+1226622409 [shape = record; label = 583742.2956]
+start_1226622409 -- 1226622409
+1226622409 -- end_1226622409
+start_1957502751 [shape = point;]
+end_1957502751 [shape = point;]
+1957502751 [shape = record; label = 167232.4578]
+start_1957502751 -- 1957502751
+1957502751 -- end_1957502751
+start_242355057 -- start_455538610
+end_455538610 -- start_1226622409
+end_1226622409 -- start_1957502751
+end_1957502751 -- end_242355057
+start_1780132728 [shape = point;]
+end_1780132728 [shape = point;]
+1780132728 [shape = record; label = 403141.9502]
+start_1780132728 -- 1780132728
+1780132728 -- end_1780132728
+start_1630521067 -- start_274773041
+end_274773041 -- start_242355057
+end_242355057 -- start_1780132728
+end_1780132728 -- end_1630521067
+
+}
